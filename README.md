@@ -1,7 +1,3 @@
-Got it — you want a **detailed**, **professional**, and **emoji-free** `README.md`, so you can **write or paste it directly** into your project.
-
-Here’s a full, neat, and serious version of your README file, without any emojis:
-
 # Movie Recommendation System
 
 This project is a content-based Movie Recommendation System that uses **Cosine Similarity** and **CountVectorizer** techniques from scikit-learn. It suggests movies that are similar to a selected movie based on features like genre, keywords, cast, and director.
